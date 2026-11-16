@@ -37,7 +37,7 @@ Follow these steps to download the application:
 1. Open MATLAB on your computer.
 2. Navigate to the folder where you extracted the downloaded application.
 3. Set the application folder as the **Current Folder** in MATLAB.
-4. Locate and open the main MATLAB application file (`.mlapp` or the designated main program file).
+4. Locate and open the main MATLAB application file ('Frag_Res_curve.mlappinstall').
 5. Run the application using MATLAB to access its graphical user interface.
 
 **Note:** The application must be executed within MATLAB. Downloading the repository alone will not run the application.
